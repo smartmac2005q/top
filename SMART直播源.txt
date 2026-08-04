@@ -24,6 +24,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://211.72.174.95:8117/0.ts
 民視新聞,https://4gtv.158.qzz.io/163189/ca241422-9067-424c-bbd7-9aab4a6a39b0/
@@ -34,8 +36,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 三立新聞,http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8
 三立新聞,http://220.135.64.124:5050/4gtv-live089/index.m3u8
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞,https://stream1.freetv.fun/ae5d52a5c49891c28f1a39ea6b9fc0d67e3e7f02e100b9bf1ff1dc7cc5fa4662.m3u8
 中天新聞,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-ztxwt.flv
