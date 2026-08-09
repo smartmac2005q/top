@@ -1,5 +1,5 @@
 新聞頻道,#genre#
-TVBS新聞,https://stream1.freetv.fun/a16ffa27fda82552af49c3a429909ce01ead0bda46f726ebb1300413f8e98cc3.m3u8
+TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://stream1.freetv.fun/63f8eb7e87fb508a6d82afd23a1e9287e1f2205368685562dce238ba767bb2ac.m3u8
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
