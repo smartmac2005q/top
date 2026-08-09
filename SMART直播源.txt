@@ -4,36 +4,32 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 寰宇新聞,https://4gtv.158.qzz.io/163189/ca41743f-7a1b-4040-872a-bc8c26229a4f/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
-寰宇新聞,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞,http://nmk.ioapk.com:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+寰宇新聞,https://www.youtube.com/watch?v=w87VGpgd90U
 中視新聞,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
-中視新聞,https://iptv.852851.xyz/ch/c87ed6b3f13ae3f15e3cb76736f6c660/master.m3u8
-中視新聞,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-zsxwt.flv
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
-台視新聞,https://www.youtube.com/watch?v=9iRAqBMakXY
 台視新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
-台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
+台視新聞,https://www.youtube.com/watch?v=9iRAqBMakXY
 台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,http://211.72.174.95:8117/0.ts
 民視新聞,https://4gtv.158.qzz.io/163189/ca241422-9067-424c-bbd7-9aab4a6a39b0/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
-民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民視新聞,http://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
+民視新聞,http://211.72.174.95:8117/0.ts
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
-三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 三立新聞,http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8
 三立新聞,http://220.135.64.124:5050/4gtv-live089/index.m3u8
-中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 中天新聞,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新聞,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-ztxwt.flv
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 非凡新聞,rtmp://f13h.mine.nu:1935:1935/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
@@ -49,16 +45,14 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中視頻道,rtmp://116.93.98.236/sat/tv091.flv
 中視頻道,rtmp://60.248.77.83/sat/tv091
 民視頻道,http://211.72.174.95:8115/0.ts
-民視頻道,https://play-agora-test.innogx.com/live/ERadomiHh1hClBVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
 民視頻道,http://74.91.26.218:82/live/ftv.m3u8
-民視頻道,http://iptv.4666888.xyz/iptv2A.php?id=55
 民視頻道,rtmp://f13h.mine.nu:1935:1935/sat/tv051
 民視頻道,rtmp://f13h.mine.nu/sat/tv051
 民視頻道,rtmp://9hv9.mine.nu/sat/tv051.flv
 民視頻道,rtmp://116.93.98.236/sat/tv051.flv
 民視頻道,rtmp://60.248.77.83/sat/tv051
-台視頻道,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台視頻道,http://211.72.174.95:8112/0.ts
+台視頻道,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台視頻道,http://74.91.26.218:82/live/ttv.m3u8
 台視頻道,rtmp://f13h.mine.nu:1935:1935/sat/tv071
 台視頻道,rtmp://f13h.mine.nu/sat/tv071
@@ -79,15 +73,12 @@ ELTA生活旅遊,http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8
 亞洲旅遊,https://4gtv.158.qzz.io/163189/9d3f4fa7-11b2-4d24-82d9-cfdc4f2eb787/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 亞洲旅遊,http://nmk.ioapk.com:5050/of-4gtv-4gtv076/index.m3u8?proxy=true
 飢餓遊戲,https://www.youtube.com/watch?v=UJgN7q6jpns
-飢餓遊戲,https://www.youtube.com/watch?v=wiwPHyJj6pI
 綜藝玩很大,https://www.youtube.com/watch?v=IkVUGn_uTCE
 綜藝大集合,https://www.youtube.com/watch?v=tGvrr-w0FeY?list=PLi0ZZWlxtL4HAiQjwZ6djimZBm7uW8jOf
-綜藝大集合,https://www.youtube.com/watch?v=4IuO5cpV2BQ
 天才衝衝衝,https://www.youtube.com/watch?v=0ePhPlTJbGo
 TVBS歡樂,https://4gtv.158.qzz.io/163189/1e0bdf17-436e-40d9-b442-ca3e2bf3d1db/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 TVBS精采,https://4gtv.158.qzz.io/163189/acd6cbf9-8405-49c0-bf37-f7c620ccc391/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
-TVBS精采,https://play-agora-test.innogx.com/live/01hClBYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
-東森超視,https://stream1.freetv.fun/bf0c93b73b47a18039f8e42d027ba66e63d7627ddfbfbd47a2ea77784413a4bc.m3u8
+東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森超視,rtmp://f13h.mine.nu:1935:1935/sat/tv331
 東森超視,rtmp://f13h.mine.nu/sat/tv331
 東森超視,rtmp://9hv9.mine.nu/sat/tv331.flv
@@ -101,7 +92,6 @@ TVBS精采,https://play-agora-test.innogx.com/live/01hClBYaU9Xvyn84tynbS8cp3vajD
 靖天日本,https://4gtv.158.qzz.io/163189/9f56958f-4a50-4fc6-9407-a7e8b23a34e0/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 緯來日本,rtmp://f13h.mine.nu:1935:1935/sat/tv771
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來日本,http://139.159.221.112:80/today/hm.php?id=def0b509a4b708d7b85721596b5adae4&key=***
 時尚運動X,https://4gtv.158.qzz.io/163189/cf7ef929-0f52-4a1d-96e9-a2640f8d8825/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 時尚運動X,https://4gtv.158.qzz.io/163189/469d850c-12ba-4454-b2c6-0e7f7fc5f974/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 天王豬哥秀,https://www.youtube.com/watch?v=OhA_G0s9pqw
@@ -112,7 +102,6 @@ TVBS精采,https://play-agora-test.innogx.com/live/01hClBYaU9Xvyn84tynbS8cp3vajD
 靖天戲劇,https://4gtv.158.qzz.io/163189/cb08ca08-c955-4719-a594-f145c78c9209/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 兒童頻道,#genre#
 MOMO親子,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
-MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
 MOMO親子,http://220.135.64.124:5050/4gtv-live107/index.m3u8
 精選動漫,http://nmk.ioapk.com:5050/4gtv-live024/index.m3u8
 精選動漫,http://220.135.64.124:5050/4gtv-live024/index.m3u8
@@ -121,38 +110,31 @@ Nick Jr. 兒童,http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
 Nick Jr. 兒童,http://220.135.64.124:5050/4gtv-live032/index.m3u8
 夢工廠動畫,https://4gtv.158.qzz.io/163189/cb8de1e9-bd8e-4231-a4e3-bcb6b084b683/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 夢工廠動畫,http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
-夢工廠動畫,http://iptv.4666888.xyz/iptv2A.php?id=40
 夢工廠動畫,http://220.135.64.124:5050/4gtv-live017/index.m3u8
-夢工廠動畫,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 尼克兒童,http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 尼克兒童,http://220.135.64.124:5050/4gtv-live105/index.m3u8
 ABC互動英語,http://220.135.64.124:5050/4gtv-live030/index.m3u8
 ABC互動英語,http://nmk.ioapk.com:5050/4gtv-live030/index.m3u8
 金光布袋戲,http://nmk.ioapk.com:5050/4gtv-live144/index.m3u8
 金光布袋戲,http://220.135.64.124:5050/4gtv-live144/index.m3u8
-金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
 探索頻道,#genre#
 Love Nature,http://nmk.ioapk.com:5050/4gtv-live208/index.m3u8
 Love Nature,http://220.135.64.124:5050/4gtv-live208/index.m3u8
 電影頻道,#genre#
 ROCK 動作,http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 ROCK 動作,http://220.135.64.124:5050/4gtv-live138/index.m3u8
-ROCK 動作,http://iptv.4666888.xyz/iptv2A.php?id=50
 ROCK 娛樂,http://nmk.ioapk.com:5050/4gtv-live080/index.m3u8
 ROCK 娛樂,http://220.135.64.124:5050/4gtv-live080/index.m3u8
 靖天映畫,https://4gtv.158.qzz.io/163189/5c69ffac-f232-47eb-b15e-6f8a0caeaa6c/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
-靖天映畫,https://iptv.852851.xyz/ch/13eaf1f8e1b5a94d2350dccab165849a/master.m3u8
 靖天電影,https://4gtv.158.qzz.io/163189/ac91480e-8572-41b6-af5d-2421f2bf0d78/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
-靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
 AMC電影,https://4gtv.158.qzz.io/163189/516897fd-240f-4633-83ae-525f55275205/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 世界電影,http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 世界電影,http://220.135.64.124:5050/4gtv-live069/index.m3u8
 財經頻道,#genre#
-東森財經,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經,https://4gtv.158.qzz.io/163189/15801af6-42b5-47b0-9c68-908ce9d1ae29/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
+東森財經,https://www.youtube.com/watch?v=AEBeWMM1atA
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
-台視財經,https://stream1.freetv.fun/e2331640734e3da0f0ea18e4021f6d8ce8247924af42ed34d282c4aa1c0e1dbd.m3u8
 SBN全球財經,http://220.135.64.124:5050/4gtv-live060/index.m3u8
 SBN全球財經,http://nmk.ioapk.com:5050/4gtv-live060/index.m3u8
 電台,#genre#
