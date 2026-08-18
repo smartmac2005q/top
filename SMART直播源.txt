@@ -6,9 +6,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新聞,https://4gtv.158.qzz.io/163189/ca41743f-7a1b-4040-872a-bc8c26229a4f/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 寰宇新聞,http://nmk.ioapk.com:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新聞,https://www.youtube.com/watch?v=w87VGpgd90U
-中視新聞,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 台視新聞,https://www.youtube.com/watch?v=9iRAqBMakXY
 台視新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
@@ -17,6 +14,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
+中視新聞,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 民視新聞,https://4gtv.158.qzz.io/163189/ca241422-9067-424c-bbd7-9aab4a6a39b0/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
