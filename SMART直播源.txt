@@ -74,6 +74,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 綜藝玩很大,https://www.youtube.com/watch?v=IkVUGn_uTCE
 綜藝大集合,https://www.youtube.com/watch?v=tGvrr-w0FeY?list=PLi0ZZWlxtL4HAiQjwZ6djimZBm7uW8jOf
 天才衝衝衝,https://www.youtube.com/watch?v=0ePhPlTJbGo
+ELTA生活旅遊,http://220.135.64.124:5050/4gtv-live120/index.m3u8
+ELTA生活旅遊,http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森超視,rtmp://f13h.mine.nu:1935:1935/sat/tv331
 東森超視,rtmp://f13h.mine.nu/sat/tv331
@@ -82,6 +84,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森超視,rtmp://60.248.77.83/sat/tv331
 東森綜合2,https://www.youtube.com/watch?v=cimbpAZUjzw
 東森綜合2,https://h5cdn3.kylintv.tv/live/ebcvtv_iphone.m3u8
+三立綜合,http://220.135.64.124:5050/4gtv-live207/index.m3u8
+三立綜合,http://nmk.ioapk.com:5050/4gtv-live207/index.m3u8
 中天綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1022.m3u8
 中天綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1022.m3u8
 八大綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1019.m3u8
@@ -97,17 +101,39 @@ JET 綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.
 豬哥亮經典秀,https://www.youtube.com/watch?v=DFqBPb7EW5g
 戲劇頻道,#genre#
 兒童頻道,#genre#
-MOMO親子,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1007.m3u8
-MOMO親子,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
-MOMO親子,http://220.135.64.124:5050/4gtv-live107/index.m3u8
+MOMO親子1,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1007.m3u8
+MOMO親子2,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+MOMO親子2,http://220.135.64.124:5050/4gtv-live107/index.m3u8
 東森幼幼,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1008.m3u8
+精選動漫,http://nmk.ioapk.com:5050/4gtv-live024/index.m3u8
+精選動漫,http://220.135.64.124:5050/4gtv-live024/index.m3u8
+Nick Jr. 兒童,http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
+Nick Jr. 兒童,http://220.135.64.124:5050/4gtv-live032/index.m3u8
+夢工廠動畫,http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
+夢工廠動畫,http://220.135.64.124:5050/4gtv-live017/index.m3u8
+尼克兒童,http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
+尼克兒童,http://220.135.64.124:5050/4gtv-live105/index.m3u8
+ABC互動英語,http://220.135.64.124:5050/4gtv-live030/index.m3u8
+ABC互動英語,http://nmk.ioapk.com:5050/4gtv-live030/index.m3u8
+金光布袋戲,http://nmk.ioapk.com:5050/4gtv-live144/index.m3u8
+金光布袋戲,http://220.135.64.124:5050/4gtv-live144/index.m3u8
 探索頻道,#genre#
+Love Nature,http://nmk.ioapk.com:5050/4gtv-live208/index.m3u8
+Love Nature,http://220.135.64.124:5050/4gtv-live208/index.m3u8
 電影頻道,#genre#
 緯來電影台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1183.m3u8
+ROCK 動作,http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
+ROCK 動作,http://220.135.64.124:5050/4gtv-live138/index.m3u8
+ROCK 娛樂,http://nmk.ioapk.com:5050/4gtv-live080/index.m3u8
+ROCK 娛樂,http://220.135.64.124:5050/4gtv-live080/index.m3u8
+世界電影,http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+世界電影,http://220.135.64.124:5050/4gtv-live069/index.m3u8
 財經頻道,#genre#
 東森財經,https://www.youtube.com/watch?v=AEBeWMM1atA
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
+SBN全球財經,http://220.135.64.124:5050/4gtv-live060/index.m3u8
+SBN全球財經,http://nmk.ioapk.com:5050/4gtv-live060/index.m3u8
 電台,#genre#
 全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
 CityFM台北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
