@@ -7,6 +7,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新聞,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞,http://nmk.ioapk.com:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 台視新聞,https://www.youtube.com/watch?v=9iRAqBMakXY
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
@@ -19,6 +20,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
@@ -98,6 +100,8 @@ JET綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.7
 豬哥亮經典秀,https://www.youtube.com/watch?v=DFqBPb7EW5g
 戲劇頻道,#genre#
 兒童頻道,#genre#
+龍華卡通,https://cdn.qd.je/163189/lhkt
+嘉佳卡通,http://38.75.136.137:98/gslb/dsdqpub/gdjjkt.m3u8?auth=testpub
 MOMO親子1,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1007.m3u8
 MOMO親子2,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 MOMO親子2,http://220.135.64.124:5050/4gtv-live107/index.m3u8
@@ -118,8 +122,18 @@ ABC互動英語,http://nmk.ioapk.com:5050/4gtv-live030/index.m3u8
 Love Nature,http://nmk.ioapk.com:5050/4gtv-live208/index.m3u8
 Love Nature,http://220.135.64.124:5050/4gtv-live208/index.m3u8
 電影頻道,#genre#
-緯來電影台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1183.m3u8
 AXN Taiwan,http://125.227.210.55:4050/VideoInput/play.ts
+龍華偶像,https://cdn.qd.je/163189/lhox
+龍華洋片,https://cdn.qd.je/163189/lhyp
+龍華經典,https://cdn.qd.je/163189/lhjd
+CHC影迷電影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+CHC動作電影,http://198.204.228.26/live/chcdz.m3u8
+CHC動作電影,http://107.150.60.122/live/chcdz.m3u8
+CHC動作電影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
+CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
+CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 ROCK 動作,http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 ROCK 動作,http://220.135.64.124:5050/4gtv-live138/index.m3u8
 ROCK 娛樂,http://nmk.ioapk.com:5050/4gtv-live080/index.m3u8
