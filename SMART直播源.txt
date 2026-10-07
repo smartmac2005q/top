@@ -5,7 +5,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1014.m3u8
 寰宇新聞,https://www.youtube.com/watch?v=w87VGpgd90U
-寰宇新聞,http://nmk.ioapk.com:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 台視新聞,https://www.youtube.com/watch?v=9iRAqBMakXY
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
@@ -27,7 +26,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 三立新聞,https://www.youtube.com/watch?v=yeYC0mbSIOo
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
-中天新聞,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 鏡新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1031.m3u8
@@ -60,20 +58,16 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視頻道,rtmp://116.93.98.236/sat/tv071.flv
 台視頻道,rtmp://60.248.77.83/sat/tv071
 華視頻道,http://211.72.174.95:8114/0.ts
-華視頻道,http://nmk.ioapk.com:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 華視頻道,http://74.91.26.218:82/live/cts.m3u8
 華視頻道,rtmp://f13h.mine.nu:1935:1935/sat/tv111
 華視頻道,rtmp://f13h.mine.nu/sat/tv111
 華視頻道,rtmp://9hv9.mine.nu/sat/tv111.flv
 華視頻道,rtmp://116.93.98.236/sat/tv111.flv
 華視頻道,rtmp://60.248.77.83/sat/tv111
-亞洲旅遊,http://nmk.ioapk.com:5050/of-4gtv-4gtv076/index.m3u8?proxy=true
 飢餓遊戲,https://www.youtube.com/watch?v=UJgN7q6jpns
 綜藝玩很大,https://www.youtube.com/watch?v=IkVUGn_uTCE
 綜藝大集合,https://www.youtube.com/watch?v=tGvrr-w0FeY?list=PLi0ZZWlxtL4HAiQjwZ6djimZBm7uW8jOf
 天才衝衝衝,https://www.youtube.com/watch?v=0ePhPlTJbGo
-ELTA生活旅遊,http://220.135.64.124:5050/4gtv-live120/index.m3u8
-ELTA生活旅遊,http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森超視,rtmp://f13h.mine.nu:1935:1935/sat/tv331
 東森超視,rtmp://f13h.mine.nu/sat/tv331
@@ -82,8 +76,6 @@ ELTA生活旅遊,http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8
 東森超視,rtmp://60.248.77.83/sat/tv331
 東森綜合2,https://www.youtube.com/watch?v=cimbpAZUjzw
 東森綜合2,https://h5cdn3.kylintv.tv/live/ebcvtv_iphone.m3u8
-三立綜合,http://220.135.64.124:5050/4gtv-live207/index.m3u8
-三立綜合,http://nmk.ioapk.com:5050/4gtv-live207/index.m3u8
 中天綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1022.m3u8
 中天綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1022.m3u8
 八大綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1019.m3u8
@@ -102,24 +94,8 @@ JET綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.7
 龍華卡通,https://cdn.qd.je/163189/lhkt
 嘉佳卡通,http://38.75.136.137:98/gslb/dsdqpub/gdjjkt.m3u8?auth=testpub
 MOMO親子1,https://www.youtube.com/watch?v=xJ6ySzzvnno
-MOMO親子2,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
-MOMO親子2,http://220.135.64.124:5050/4gtv-live107/index.m3u8
 東森幼幼,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1008.m3u8
-精選動漫,http://nmk.ioapk.com:5050/4gtv-live024/index.m3u8
-精選動漫,http://220.135.64.124:5050/4gtv-live024/index.m3u8
-Nick Jr. 兒童,http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
-Nick Jr. 兒童,http://220.135.64.124:5050/4gtv-live032/index.m3u8
-夢工廠動畫,http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
-夢工廠動畫,http://220.135.64.124:5050/4gtv-live017/index.m3u8
-尼克兒童,http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
-尼克兒童,http://220.135.64.124:5050/4gtv-live105/index.m3u8
-ABC互動英語,http://220.135.64.124:5050/4gtv-live030/index.m3u8
-ABC互動英語,http://nmk.ioapk.com:5050/4gtv-live030/index.m3u8
-金光布袋戲,http://nmk.ioapk.com:5050/4gtv-live144/index.m3u8
-金光布袋戲,http://220.135.64.124:5050/4gtv-live144/index.m3u8
 探索頻道,#genre#
-Love Nature,http://nmk.ioapk.com:5050/4gtv-live208/index.m3u8
-Love Nature,http://220.135.64.124:5050/4gtv-live208/index.m3u8
 電影頻道,#genre#
 AXN Taiwan,http://125.227.210.55:4050/VideoInput/play.ts
 龍華偶像,https://cdn.qd.je/163189/lhox
@@ -133,18 +109,10 @@ CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-ROCK 動作,http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
-ROCK 動作,http://220.135.64.124:5050/4gtv-live138/index.m3u8
-ROCK 娛樂,http://nmk.ioapk.com:5050/4gtv-live080/index.m3u8
-ROCK 娛樂,http://220.135.64.124:5050/4gtv-live080/index.m3u8
-世界電影,http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
-世界電影,http://220.135.64.124:5050/4gtv-live069/index.m3u8
 財經頻道,#genre#
 東森財經,https://www.youtube.com/watch?v=AEBeWMM1atA
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
-SBN全球財經,http://220.135.64.124:5050/4gtv-live060/index.m3u8
-SBN全球財經,http://nmk.ioapk.com:5050/4gtv-live060/index.m3u8
 電台,#genre#
 全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
 CityFM台北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
