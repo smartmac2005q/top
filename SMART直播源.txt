@@ -1,13 +1,13 @@
 新聞頻道,#genre#
 TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1014.m3u8
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 寰宇新聞,https://www.youtube.com/watch?v=w87VGpgd90U
-台視新聞,https://www.youtube.com/watch?v=9iRAqBMakXY
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+寰宇新聞,https://www.youtube.com/watch?v=a1YWMrmwXQs
 台視新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台視新聞,https://www.youtube.com/watch?v=9iRAqBMakXY
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
@@ -28,7 +28,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-鏡新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1031.m3u8
 非凡新聞,rtmp://f13h.mine.nu:1935:1935/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://9hv9.mine.nu/sat/tv581.flv
@@ -64,9 +63,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視頻道,rtmp://9hv9.mine.nu/sat/tv111.flv
 華視頻道,rtmp://116.93.98.236/sat/tv111.flv
 華視頻道,rtmp://60.248.77.83/sat/tv111
+飢餓遊戲,https://www.youtube.com/watch?v=6TsaEYaKueE
 飢餓遊戲,https://www.youtube.com/watch?v=UJgN7q6jpns
 綜藝玩很大,https://www.youtube.com/watch?v=IkVUGn_uTCE
-綜藝大集合,https://www.youtube.com/watch?v=tGvrr-w0FeY?list=PLi0ZZWlxtL4HAiQjwZ6djimZBm7uW8jOf
+綜藝大集合,https://www.youtube.com/watch?v=xABqNvTS1Hs&list=PLi0ZZWlxtL4HAiQjwZ6djimZBm7uW8jOf&index=1
 天才衝衝衝,https://www.youtube.com/watch?v=0ePhPlTJbGo
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森超視,rtmp://f13h.mine.nu:1935:1935/sat/tv331
@@ -76,13 +76,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森超視,rtmp://60.248.77.83/sat/tv331
 東森綜合2,https://www.youtube.com/watch?v=cimbpAZUjzw
 東森綜合2,https://h5cdn3.kylintv.tv/live/ebcvtv_iphone.m3u8
-中天綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1022.m3u8
-中天綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1022.m3u8
-八大綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1019.m3u8
-八大綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1019.m3u8
-八大綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1019.m3u8
-JET綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1009.m3u8
-JET綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1009.m3u8
 緯來日本,rtmp://f13h.mine.nu:1935:1935/sat/tv771
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 天王豬哥秀,https://www.youtube.com/watch?v=OhA_G0s9pqw
@@ -110,9 +103,12 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 財經頻道,#genre#
+三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
+東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森財經,https://www.youtube.com/watch?v=AEBeWMM1atA
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
+寰宇財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 電台,#genre#
 全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
 CityFM台北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
@@ -132,7 +128,7 @@ AsiaFM亞太電台FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
 音樂欣賞3,https://www.youtube.com/watch?v=b_k6nvrPyqc
 音樂欣賞4,https://www.youtube.com/watch?v=iYSASt9UeXw
 音樂欣賞5,http://61.221.215.25:8800/hls/49/index.m3u8
-
+地震即時警報,https://www.youtube.com/watch?v=KMMHw8rllic
 
 
 
