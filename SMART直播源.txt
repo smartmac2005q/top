@@ -107,7 +107,6 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森財經,https://www.youtube.com/watch?v=AEBeWMM1atA
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
-台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
 寰宇財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 電台,#genre#
 全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
